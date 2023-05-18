@@ -1,0 +1,446 @@
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.AssemblyReference.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.lref
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.exe
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll.config
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.deps.json
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.runtimeconfig.json
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.g.resources
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfoInputs.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfo.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CoreCompileInputs.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CopyComplete
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\refint\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.genruntimeconfig.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ref\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.AssemblyReference.cache
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.g.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.cache
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.lref
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.baml
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.g.resources
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\refint\QuanlyDancuDothi.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.exe
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll.config
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.deps.json
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.runtimeconfig.json
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.GeneratedMSBuildEditorConfig.editorconfig
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfoInputs.cache
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfo.cs
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CoreCompileInputs.cache
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CopyComplete
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.genruntimeconfig.cache
+D:\N2.2\Lập trình trên Windows\QuanlyDancuDothi\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ref\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.exe
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll.config
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.deps.json
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.runtimeconfig.json
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.AssemblyReference.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.lref
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.g.resources
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfoInputs.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfo.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CoreCompileInputs.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CopyComplete
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\refint\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.genruntimeconfig.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ref\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.exe
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll.config
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.deps.json
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.runtimeconfig.json
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.AssemblyReference.cache
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.cache
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.lref
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.baml
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.g.resources
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfoInputs.cache
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfo.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CoreCompileInputs.cache
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CopyComplete
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\refint\QuanlyDancuDothi.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.genruntimeconfig.cache
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ref\QuanlyDancuDothi.dll
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Duyet.g.cs
+D:\SPKT\HK2-nam-2\Winform\QuanlyDancuDothi-2\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Duyet.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.exe
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll.config
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.deps.json
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.runtimeconfig.json
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.AssemblyReference.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Duyet.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.lref
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Duyet.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.g.resources
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfoInputs.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfo.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CoreCompileInputs.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CopyComplete
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\refint\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.genruntimeconfig.cache
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ref\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_HoKhau.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_HoKhau.baml
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Đơn.g.cs
+D:\2year\HK2\WIPR\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Đơn.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.exe
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll.config
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.deps.json
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.runtimeconfig.json
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.AssemblyReference.cache
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_HoKhau.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Đơn.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.cache
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi_MarkupCompile.lref
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\App.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_CongDan.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_HoKhau.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_QuanLyDon.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_TrangChu.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Login.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\SplashScreen.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_CongDan.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_QuanLyDon.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_TrangChu.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamTru.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonTamVang.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayDangKiKetHon.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\Đơn.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.g.resources
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfoInputs.cache
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.AssemblyInfo.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CoreCompileInputs.cache
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.csproj.CopyComplete
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\refint\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.pdb
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\QuanlyDancuDothi.genruntimeconfig.cache
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ref\QuanlyDancuDothi.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonLyHon.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wDonLyHon.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayChungTu.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayKhaiSinh.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayKhaiSinh.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wGiayChungTu.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_DanhGia.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\USER_DanhGia.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\TestComboBox.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\TestComboBox.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_DanhGia.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\ADMIN_DanhGia.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wHoKhau.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wHoKhau.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wCatKhau.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wCatKhau.baml
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wThemNguoiVaoHoKhau.g.cs
+D:\2year\HK2\WIPR\Cuoiky\QuanlyDancuDothi-4\QuanlyDancuDothi (1)\QuanlyDancuDothi\QuanlyDancuDothi\obj\Debug\net6.0-windows\wThemNguoiVaoHoKhau.baml

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ADMIN_CongDan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ADMIN_DanhGia.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ADMIN_HoKhau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ADMIN_QuanLyDon.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ADMIN_TrangChu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SplashScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TestComboBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="USER_CongDan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="USER_DanhGia.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="USER_QuanLyDon.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="USER_TrangChu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wCatKhau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wDonLyHon.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wDonTamTru.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wDonTamVang.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wGiayChungTu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wGiayDangKiKetHon.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wGiayKhaiSinh.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wHoKhau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wThemNguoiVaoHoKhau.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Đơn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ADMIN_CongDan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ADMIN_DanhGia.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ADMIN_HoKhau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ADMIN_QuanLyDon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ADMIN_TrangChu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SplashScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TestComboBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="USER_CongDan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="USER_DanhGia.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="USER_QuanLyDon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="USER_TrangChu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wCatKhau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wDonLyHon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wDonTamTru.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wDonTamVang.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wGiayChungTu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wGiayDangKiKetHon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wGiayKhaiSinh.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wHoKhau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wThemNguoiVaoHoKhau.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Đơn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
